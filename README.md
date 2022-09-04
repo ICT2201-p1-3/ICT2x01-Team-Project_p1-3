@@ -4,11 +4,11 @@
 Web Application for aircon retailer company
 
 Problem:
-Client requires a web-based workload management system would be an informative way to have an overview of the company's manpower strengthen at any time
+- Client requires a web-based workload management system would be an informative way to have an overview of the company's manpower strengthen at any time
 and get more informative availabilities of employees and engagement.
 
 Task:
-To create a web app to visualise the staff workload immediately on the landing page
+- To create a web app to visualise the staff workload immediately on the landing page
 
 Project structure:
 - Team Lead - Pei Hao
